@@ -438,4 +438,4 @@ let statistics =
 var average = (float statistics.Apples) / (float statistics.ShoppingOccurences) // 0.5625
 ```
 
-`data` innehåller nu en monoid som vi kan återanvända för nya beräkningar eller om vi vid ett senare tillfälle får två nya användare att ta med i beräkningen. Dock skall man komma ihåg att vi inte kan återanvända värdet om vi muterar de existerande användarnas register över lästa böcker.
+`statistics` now contains a monoid that could be reused. When adding a new month to `groceries` my sons do not need to recalculate everything.

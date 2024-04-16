@@ -19,7 +19,7 @@ TODO
 
 ## Content
 
-- [01 Basics](./01-monoids/01-basics.md)
+- [01 Basics](./01-basics/01-basics.md)
 - 02 Parsers
 - 04 Map
 - 05 JSON Decoder
