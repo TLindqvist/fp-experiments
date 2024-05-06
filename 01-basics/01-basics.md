@@ -2,7 +2,7 @@
 
 ## 1.1 Reduction
 
-One of the most basic concepts hen programming in any higher-level language comes from mathematics and is one that we often take for granted. That is **reduction**. According to Cambridge dictionary it is "the act of making something, or of smoething bevoming, smaller in size, amount[...]". In mathematics it means to reqrite an expression in simpler form. For example:
+One of the most basic concepts hen programming in any higher-level language comes from mathematics and is one that we often take for granted. That is **reduction**. According to Cambridge dictionary it is "the act of making something, or of something becoming, smaller in size, amount[...]". In mathematics it means to rewrite an expression in simpler form. For example:
 
 `2 * (1 + 3)` can be reduced to `2 * 4` which in turn can be reduced `8`.
 
